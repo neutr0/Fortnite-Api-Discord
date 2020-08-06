@@ -1,4 +1,4 @@
-
+[![Run on Repl.it](https://repl.it/badge/github/BayGamerYT/Fortnite-Api-Discord)](https://repl.it/github/BayGamerYT/Fortnite-Api-Discord)
 # Fortnite-Api Discord
 ![Preview](https://i.ibb.co/Th3CzzN/fortnite-api-discord-final.gif)
 
